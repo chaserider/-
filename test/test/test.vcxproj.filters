@@ -66,5 +66,8 @@
     <ClCompile Include="test2653.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test3242.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
